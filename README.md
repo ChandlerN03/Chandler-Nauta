@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandler Nauta</h1>
 <h3 align="center">An aspiring software engineer from New York</h3>
+<h3 align="center">I am a junior at the NYIT</h3>
+<h3 align="center">Im the Vice President of the Society of Hispanic Professional Engineers</h3>
 
 - 🔭 I’m currently working on **perfectFit**
 
